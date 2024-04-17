@@ -6,6 +6,6 @@
 
 ### Мои репозитории
 
-1. [Соревновательные проекты](https://github.com/rocinantt/Competition-Projects-Repository)
+1. [Соревновательные проекты](https://github.com/rocinantt/Competitive-DS-project)
 
 2. [Проекты курса "Специалист по Data Science"](https://github.com/rocinantt/Yandex-Practicum-Projects)
