@@ -1,11 +1,4 @@
-## Всем привет!
+<div align="center">
+  <img src="https://github.com/rocinantt/rocinantt/blob/main/Untitled%20design.png" alt="Logo" width="2000" height="300">
+</a>
 
-### Меня зовут Серебряков Степан
-
-Получал высшее образование по специальности прикладная математика. Закончил курс Специалист по Data Science от Яндекс Практикум. я активно участвую в соревнованиях и продолжаю развиваться в области анализа данных и машинного обучения.
-
-### Мои репозитории
-
-1. [Соревновательные проекты](https://github.com/rocinantt/Competitive-DS-project)
-
-2. [Проекты курса "Специалист по Data Science"](https://github.com/rocinantt/Yandex-Practicum-Projects)
