@@ -2,12 +2,12 @@
   <img src="https://github.com/rocinantt/rocinantt/blob/main/Untitled%20design.png" alt="Logo">
 </div>
 
-<h4 align="center">I live in St. Petersburg, Russia and studying DS and ML.</h4>
+<h4 align="center">I live in Saint Petersburg, Russia, and I`m studying DS and ML.</h4>
 <br/>
 <div align="center">
   <a href="mailto:s.s.serebryakov@ya.ru">
     <img src="https://img.shields.io/badge/email-s.s.serebryakov@ya.ru-fb4d5e?style=flat&logo=gmail&logoColor=white" alt="Email">
-  </a>
+
   <a href="https://t.me/rocinantt">
     <img src="https://img.shields.io/badge/telegram-rocinantt-fb4d5e?style=flat&logo=telegram&logoColor=white" alt="Telegram">
   </a>
