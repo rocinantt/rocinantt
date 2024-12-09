@@ -2,7 +2,7 @@
   <img src="https://github.com/rocinantt/rocinantt/blob/main/Untitled%20design.png" alt="Logo">
 </div>
 
-<h4 align="center">I live in Saint Petersburg, Russia, and I`m studying DS and ML.</h4>
+<h4 align="center">I am NLP DS at RTK IT</h4>
 <br/>
 <div align="center">
   <a href="mailto:s.s.serebryakov@ya.ru">
